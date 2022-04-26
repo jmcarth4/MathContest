@@ -2,7 +2,7 @@
 'RCET0265
 'Spring 2022
 'Math Contest
-'
+'https://github.com/jmcarth4/MathContest.git
 
 Option Strict On
 Public Class MathContest
